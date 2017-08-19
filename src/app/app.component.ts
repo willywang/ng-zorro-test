@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'app to test ng-zorro';
+  title = 'ng-zorro-test';
+  date = null;
 }
