@@ -10,5 +10,5 @@ export class AppComponent {
   date = null;
 
 
-  
+  test = 'ok'
 }
